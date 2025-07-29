@@ -125,3 +125,36 @@ background-color: #ff4ed9;
   color: #0000006e;
   font-size: 20px;
 }
+
+/* User review section */
+.section-title{
+font-weight: bold;
+font-size: 42px;
+text-align: center;
+align-items: center;
+
+}
+
+.review-container{
+  display: flex;
+  gap: 24px;
+  margin: 50px 155px;
+  
+}
+
+.review{
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.096);
+}
+
+.sub-section{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.review-img{
+  height: 60px;
+  width: 60px;
+}
