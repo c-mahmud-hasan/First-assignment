@@ -62,9 +62,28 @@ background-color: #ff4ed9;
 }
 
 /* Action section */
+.action{
+  display: flex;
+  justify-content: space-between;
+  margin: 116px 150px;
+  align-items: center;
+
+}
+
+.content{
+  padding-right: 220px;
+}
 .action-title{
   color: #252432;
   font-weight: bold;
   font-size: 42px;
+}
+
+.action-description{
+  color: #252432;
+  font-size: 24px;
+}
+.action-img{
+  border-radius: 45px;
 }
 
