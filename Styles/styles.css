@@ -158,3 +158,33 @@ align-items: center;
   height: 60px;
   width: 60px;
 }
+
+/* last banner */
+.section2{
+text-align: center;
+justify-content: center;
+background-color: white;
+margin: 0 150px 100px;
+padding: 80px;
+border-radius: 20px;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.096);
+
+}
+
+.banner-title{
+  font-weight: bold;
+  font-size: 50px
+}
+
+.banner-description{
+  color: rgba(0, 0, 0, 0.486);
+}
+
+.banner-btn{
+  margin: 20px 475px;
+ 
+}
+
+.banner-img{
+  border-radius: 50px;
+}
